@@ -6,7 +6,7 @@ Omveer Singh is a Data Scientist, Artificial Intelligence Researcher, interested
 
 - Python | Pyspark | SAS | SQL | PowerBI
 - Machine Learning | Deep Learning
-- Data Analytics | Data Visualization | Story Telling 
+- Data Analytics | Data Visualization | Storytelling 
 - Natural language processing (NLP) | NLG | LLM
 
 
