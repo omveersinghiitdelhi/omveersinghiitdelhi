@@ -1,6 +1,6 @@
 # Omveer Singh
 
-Omveer Singh is a Data Scientist, Artificial Intelligence Researcher, interested in doing research on different domain problems.
+Omveer Singh is a senior data scientist, artificial intelligence researcher, interested in doing research on different domain problems.
 
 📌 Highlighted expertise in:
 
